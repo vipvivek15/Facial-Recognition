@@ -1,1 +1,1 @@
-This is the dataset file.
+This is the facial recognition folder.
